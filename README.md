@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there! 👋
+
+I'm Sarvesh Soni, a 17-year-old student pursuing B.Math at the Indian Statistical Institute in Bangalore, India. I have a passion for mathematics, computer science, chess, and piano.
+
+My skills include Mathematics, Linux, and Chess. I'm excited to share my work and connect with others on GitHub!
+
 
 <!--
 **MeditatedBison/MeditatedBison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
